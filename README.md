@@ -92,8 +92,8 @@ This journey includes learning Python from scratch in 7 days, followed by solvin
 - Python 3, VS Code, Git/GitHub
 
 ## Let’s Connect
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [https://github.com/Gaurapatil1]
+- LinkedIn: [https://www.linkedin.com/in/gaurav-patil-18b4682b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 
