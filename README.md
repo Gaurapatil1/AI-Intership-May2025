@@ -23,27 +23,27 @@
 - Control flow: `if`, `else`, `elif`
 - Practice conditional problems
 
-📚 Topics Learned:
+## 📚 Topics Learned:
 
-Python if, else, elif statements
+- Python if, else, elif statements
 
-Control flow and logical conditions
+- Control flow and logical conditions
 
-Nested conditions
-
-
-🧠 Key Takeaways:
-
-if checks a condition and executes code only if it's True
-
-else provides an alternative when if fails
-
-elif helps handle multiple conditions clearly
-
-Conditions can be chained and nested to solve real-world logic
+- Nested conditions
 
 
-🧪 Programs Practiced:
+## 🧠 Key Takeaways:
+
+- if checks a condition and executes code only if it's True
+
+- else provides an alternative when if fails
+
+- elif helps handle multiple conditions clearly
+
+- Conditions can be chained and nested to solve real-world logic
+
+
+## 🧪 Programs Practiced:
 
 1. Check if a number is even or odd
 
@@ -60,7 +60,7 @@ Conditions can be chained and nested to solve real-world logic
 7. Mini calculator using if-elif-else
 
 
-📌 Next Up (Day 3):
+## 📌 Next Up (Day 3):
 
 Loops: for, while, range()
 
