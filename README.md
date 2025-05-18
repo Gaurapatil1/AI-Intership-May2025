@@ -23,4 +23,59 @@
 - Control flow: `if`, `else`, `elif`
 - Practice conditional problems
 
+📚 Topics Learned:
+
+Python if, else, elif statements
+
+Control flow and logical conditions
+
+Nested conditions
+
+
+🧠 Key Takeaways:
+
+if checks a condition and executes code only if it's True
+
+else provides an alternative when if fails
+
+elif helps handle multiple conditions clearly
+
+Conditions can be chained and nested to solve real-world logic
+
+
+🧪 Programs Practiced:
+
+1. Check if a number is even or odd
+
+2. Find the largest of two numbers
+
+3. Check if a number is positive, negative, or zero
+
+4. Leap year checker
+
+5. Grading system based on marks
+
+6. Simple login system (with hardcoded values)
+
+7. Mini calculator using if-elif-else
+
+
+📌 Next Up (Day 3):
+
+Loops: for, while, range()
+
+Practice loop-based problems
+
+Print patterns
+
+Factorials
+
+Prime number checker
+
+Sum of digits
+
+Multiplication table
+
+
+
 
