@@ -19,7 +19,7 @@
 - Basic calculator using two inputs
 - Type checking of variables
 
-## 📌 Next Up (Day 2):
+# 📌 Next Up (Day 2):
 - Control flow: `if`, `else`, `elif`
 - Practice conditional problems
 
