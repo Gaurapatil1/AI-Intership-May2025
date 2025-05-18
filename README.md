@@ -1,4 +1,4 @@
-# AI-Intership-May2025
+# 100 Days of Code – Python (Basic to Advanced) with Data Structures & Algorithms
 # Day 1: Python Basics
 
 ## 📚 Topics Learned:
