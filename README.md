@@ -19,6 +19,18 @@ This journey includes learning Python from scratch in 7 days, followed by solvin
 - if, elif, else
 - while, for loops, range()
 
+### Mini Project: Student Info & Marks Analyzer (Day 1–3)
+
+**What it does:**
+- Takes student details and marks as input.
+- Calculates total, percentage, grade.
+- Displays passed/failed subjects.
+- Shows a star pattern as a performance badge.
+
+**Concepts Used:** Input/output, data types, operators, conditionals, loops, string formatting.
+
+**Code:** See [`student_analyzer.py`](student_analyzer.py)
+
 ### Day 4: Functions & Recursion
 - def keyword, return values
 - Recursive functions
