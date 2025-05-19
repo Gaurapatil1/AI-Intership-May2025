@@ -1,0 +1,57 @@
+# Day 1 to Day 3: Mini Project
+# Title: Student Information and Marks Analyzer
+
+print("=== Welcome to Student Info & Marks Analyzer ===")
+
+# --- Day 1: Input, Variables, Data Types ---
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+branch = input("Enter your branch: ")
+
+print(f"\nHello {name}! You are {age} years old and studying {branch}.")
+
+# --- Day 2: Operators, Type Casting, Strings ---
+print("\nEnter marks of 5 subjects (out of 100):")
+marks = []
+for i in range(1, 6):
+    mark = float(input(f"Subject {i}: "))
+    marks.append(mark)
+
+total = sum(marks)
+percentage = total / 5
+
+print(f"\nTotal Marks: {total}")
+print(f"Percentage: {percentage}%")
+
+# Grade logic using string and conditions
+if percentage >= 90:
+    grade = "A+"
+elif percentage >= 75:
+    grade = "A"
+elif percentage >= 60:
+    grade = "B"
+elif percentage >= 45:
+    grade = "C"
+else:
+    grade = "Fail"
+
+print(f"Grade: {grade}")
+
+# --- Day 3: Loops, Conditions, Patterns ---
+print("\nSubjects you passed:")
+for i in range(5):
+    if marks[i] >= 40:
+        print(f"Subject {i+1}: {marks[i]}")
+
+print("\nSubjects you failed:")
+for i in range(5):
+    if marks[i] < 40:
+        print(f"Subject {i+1}: {marks[i]}")
+
+# Print star pattern based on grade
+print("\nPerformance Badge:")
+rows = len(grade)
+for i in range(1, rows + 1):
+    print("*" * i)
+
+print("\n=== Program Completed ===")
