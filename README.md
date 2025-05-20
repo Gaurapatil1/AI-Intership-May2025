@@ -1,8 +1,4 @@
-# 100 Days of Code: Python + DSA (Basic to Advanced)
-
-Welcome to my 100 Days of Code Challenge!  
-This journey includes learning Python from scratch in 7 days, followed by solving Data Structures and Algorithms (DSA) from Arrays to Graphs, and building real projects.
-
+# PYTHON BASIC DAY1 TO DAY 7
 ---
 
 ## ✅ Phase 1: Python Basics (Day 1 – Day 7)
