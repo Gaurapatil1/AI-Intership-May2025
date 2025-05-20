@@ -1,7 +1,6 @@
 # PYTHON BASIC DAY1 TO DAY 7
 ---
 
-## ✅ Phase 1: Python Basics (Day 1 – Day 7)
 
 ### Day 1: Python Introduction + Setup
 - Install Python, VS Code/Jupyter
