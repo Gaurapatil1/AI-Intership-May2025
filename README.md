@@ -31,10 +31,10 @@ This journey includes learning Python from scratch in 7 days, followed by solvin
 
 **Code:** See [`student_analyzer.py`](Day_1,2,3_Program.py)
 
-### Day 4: Functions & Recursion
+# Day 4: Functions & Recursion
 - def keyword, return values
 - Recursive functions
-# Practice Problems Solved
+## Practice Problems Solved
 
 - Greet a user
 - Find max of 3 numbers
