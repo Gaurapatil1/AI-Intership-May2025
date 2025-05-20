@@ -21,7 +21,10 @@ print(greet("Gaurav"))
 Functions can accept arguments and return values.
 
 You can also use default parameter values.
+def add(a, b=5):
+    return a + b
 
+print(add(3))  # Output: 8
 
 ## 3. Types of Arguments
 
@@ -36,11 +39,26 @@ Variable-length arguments using:
 
 
 ## 4. Recursion
-
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
 A recursive function is a function that calls itself.
 
 
 ## 5. Fibonacci Sequence using Recursion
+def fibonacci(n):
+    if n <= 0:
+        return []
+    elif n == 1:
+        return [0]
+    elif n == 2:
+        return [0, 1]
+    seq = fibonacci(n - 1)
+    seq.append(seq[-1] + seq[-2])
+    return seq
 
 ## 6. Palindrome Checker Function
+def is_palindrome(text):
+    return text == text[::-1]
 
