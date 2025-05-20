@@ -34,6 +34,14 @@ This journey includes learning Python from scratch in 7 days, followed by solvin
 ### Day 4: Functions & Recursion
 - def keyword, return values
 - Recursive functions
+# Practice Problems Solved
+
+- Greet a user
+- Find max of 3 numbers
+- Factorial of a number using recursion
+- Fibonacci series using recursion
+- Palindrome checker
+
 
 ### Day 5: Strings and List Operations
 - Slicing, methods, comprehensions
