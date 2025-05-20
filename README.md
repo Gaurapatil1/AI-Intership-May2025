@@ -26,7 +26,7 @@
 
 **Code:** See [`student_analyzer.py`](Day_1,2,3_Program.py)
 
-# Day 4: Functions & Recursion
+### Day 4: Functions & Recursion
 - def keyword, return values
 - Recursive functions
 ## Practice Problems Solved
